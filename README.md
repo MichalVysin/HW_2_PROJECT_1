@@ -33,7 +33,7 @@ B. Vypsat na standardní výstup sadu statistických údajů v následujícím r
 
   6) celkový počet klidných dnů za dané období (za klidný den je považován ten, kdy průměrná denní rychlost větru je menší nebo rovna 1,8 m/s)
 
-  7)souhrnný přehled srážek za sledované období v rozdělení do měsíčních dekád (jedná se nám tedy o úhrny srážek za prvních deset kalendářních dnů, za druhých deset    kalendářních dnů, následuje pak úhrn srážek za všechny další dny)
+  7) souhrnný přehled srážek za sledované období v rozdělení do měsíčních dekád (jedná se nám tedy o úhrny srážek za prvních deset kalendářních dnů, za druhých deset    kalendářních dnů, následuje pak úhrn srážek za všechny další dny)
 
   8) Všechny vypočtené hodnoty uvádějte v přesnosti na jedno desetinné místo včetně odpovídajících jednotek.
 
